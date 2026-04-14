@@ -1,0 +1,122 @@
+body {
+	height: 100vh;
+	width: 100vh;
+	background-color: black;
+}
+
+header {
+	font-size: 120px;
+}
+
+footer {
+	font-size: 80px;
+	margin-bottom: 180px;
+	position: absolute;
+	left: 50%;
+}
+
+.song {
+}
+
+#text-based {
+	align-text: center;
+	width: 1200px;
+}
+
+#songname {
+	text-align: center;
+	font-size: 22px;
+	font-weight: 800;
+}
+
+#lyrics {
+	align-text: left; 
+	margin-left: 200px;
+}
+
+.senarai-gambar {
+	display: grid;
+}
+
+#img-1 {
+	width: 225px;
+	display: absolute;
+	right: 80px;
+	padding: 10px;
+	background: #f7f4ec;
+	border: 10px solid #e6e2d8;
+	outline: 2px solid #cfcab8;
+	outline-offset: -12px;
+}
+
+#img-2 {
+	width: 250px;
+	display: grid;
+	grid-column: 2;
+	grid-row: 8;
+	display: grid;
+	padding: 10px;
+	background: #f7f4ec;
+	border: 10px solid #e6e2d8;
+	outline: 2px solid #cfcab8;
+	outline-offset: -12px;
+}
+
+#img-3 {
+	width: 375px;
+	display: grid;
+	padding: 10px;
+	background: #f7f4ec;
+	border: 10px solid #e6e2d8;
+	outline: 2px solid #cfcab8;
+	outline-offset: -12px;
+}
+
+#img-4 {
+	width: 275px;
+	display: grid;
+	padding: 10px;
+	background: #f7f4ec;
+	border: 10px solid #e6e2d8;
+	outline: 2px solid #cfcab8;
+	outline-offset: -12px;
+}
+
+#img-5 {
+	width: 225px;
+	display: grid;
+	padding: 10px;
+	background: #f7f4ec;
+	border: 10px solid #e6e2d8;
+	outline: 2px solid #cfcab8;
+	outline-offset: -12px;
+}
+
+.navigation-bar {
+  position: fixed;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-100%);
+  width: 200px;
+  height: 600px;
+}
+
+
+
+.Kelas {
+	font-size: 360px;
+}
+
+.Pertama {
+	border-size: 80px;
+}
+
+
+
+#authorname { 
+	
+	
+	
+.direct-button {
+	border-size: 9px;
+}
